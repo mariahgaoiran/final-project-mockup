@@ -1,3 +1,12 @@
 body {
   padding-top: 61px;  /* Move body of page below navbar. */
 }
+
+.landing {
+  background-image: url(http://www.ccgoodwill.org/wp-content/uploads/flea-market.jpg);
+  height: 500px;
+}
+
+.cinzel {
+  font-family: 'Cinzel', serif;
+}
