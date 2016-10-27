@@ -1,11 +1,17 @@
-![](./doc/Landing.jpg)
+#Landing Page
+<img class="ui fluid centered image" src="/doc/Landing.jpg">
 
-![](./doc/Login.jpg)
+#Login Page
+<img class="ui fluid centered image" src="/doc/Login.jpg">
 
-![](./doc/User-Profile.jpg)
+#User Profile Page
+<img class="ui fluid centered image" src="/doc/User-Profile.jpg">
 
-![](./doc/Categories.jpg)
+#Categories Page
+<img class="ui fluid centered image" src="/doc/Categories.jpg">
 
-![](./doc/Create-Item.jpg)
+#Create Item Page
+<img class="ui fluid centered image" src="/doc/Create-Item.jpg">
 
-![](./doc/List-Item.jpg)
+#List Item Page
+<img class="ui fluid centered image" src="/doc/List-Item.jpg">
